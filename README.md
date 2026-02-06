@@ -1,4 +1,4 @@
-﻿# conv-to-bench
+﻿# Conv-to-Bench
 
 A toolkit to build and evaluate benchmarks derived from implicit user feedback in conversational datasets. The repository provides data extraction pipelines, LangGraph-based workflows to generate checklist requirements from conversations, and an LLM-driven evaluator that scores model responses against those checklists.
 
@@ -57,4 +57,5 @@ Development tips
 
 Contact
 If you have questions about running the code or extending the pipelines, open an issue or contact the maintainers.
+
 
